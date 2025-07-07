@@ -1,0 +1,20 @@
+# GUI-specific requirements for File Organizer Pro
+# Install with: pip install -r requirements-gui.txt
+
+# Modern tkinter themes and styling
+ttkbootstrap>=1.10.1
+
+# Image processing (for icons and EXIF data)
+Pillow>=9.0.0
+
+# Enhanced GUI components (optional)
+# tkinter-tooltip>=2.0.0    # Tooltips for better UX
+# darkdetect>=0.7.0         # Auto dark/light theme detection
+
+# System integration (optional)
+# plyer>=2.1.0              # Cross-platform notifications
+# send2trash>=1.8.0         # Safe file deletion
+
+# For creating executables (development)
+# pyinstaller>=5.0.0        # Create standalone executables
+# auto-py-to-exe>=2.0.0     # GUI for PyInstaller

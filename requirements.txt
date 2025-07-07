@@ -1,0 +1,18 @@
+# Core dependencies
+click>=8.0.0
+colorama>=0.4.4
+pathlib2>=2.3.0;python_version<"3.4"
+
+# Optional dependencies for enhanced functionality
+Pillow>=9.0.0  # For EXIF data extraction from images
+tqdm>=4.64.0   # Progress bars (future enhancement)
+rich>=12.0.0   # Enhanced terminal output (future enhancement)
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Additional utility packages
+python-dateutil>=2.8.0  # Enhanced date parsing
