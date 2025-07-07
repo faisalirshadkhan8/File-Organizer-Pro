@@ -152,4 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the File Organizer Pro Team**
+**Made with ❤️ by Muhammad Faisal Irhsad**
